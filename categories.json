@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1780087414",
+        "name": "BEIN SPORTS",
+        "logo": "https://k.top4top.io/p_3715q5plw1.jpg",
+        "image": "https://k.top4top.io/p_3715q5plw1.jpg",
+        "icon": "fa-futbol",
+        "color": "#7C3AED",
+        "is_m3u": false,
+        "sort_order": 0,
+        "order": 0
+    },
+    {
+        "id": "cat_1790684667819",
+        "name": "باقة الرياضة",
+        "sort_order": 0,
+        "order": 0,
+        "icon": "fa-futbol",
+        "color": "#7c3aed",
+        "logo": "",
+        "is_m3u": false
+    },
+    {
+        "id": "1780761200",
+        "name": "ALWAN SPORTS",
+        "logo": "https://i.ibb.co/wNCKNMMH/alwan-sports.png",
+        "image": "https://i.ibb.co/wNCKNMMH/alwan-sports.png",
+        "icon": "fa-palette",
+        "color": "#EA580C",
+        "is_m3u": false,
+        "sort_order": 1,
+        "order": 1
+    },
+    {
+        "id": "1780745923",
+        "name": "THMANYA SPORTS",
+        "logo": "https://i.ibb.co/dTbX08F/image.png",
+        "image": "https://i.ibb.co/dTbX08F/image.png",
+        "icon": "fa-trophy",
+        "color": "#10B981",
+        "is_m3u": false,
+        "sort_order": 2,
+        "order": 2
+    },
+    {
+        "id": "1780762225",
+        "name": "STARZ PLAY",
+        "logo": "https://e.top4top.io/p_35783xyyz0.jpg",
+        "image": "https://e.top4top.io/p_35783xyyz0.jpg",
+        "icon": "fa-play",
+        "color": "#DC2626",
+        "is_m3u": false,
+        "sort_order": 3,
+        "order": 3
+    },
+    {
+        "id": "1780762505",
+        "name": "SHAHID SPORTS",
+        "logo": "https://e.top4top.io/p_3581ohanr0.png",
+        "image": "https://e.top4top.io/p_3581ohanr0.png",
+        "icon": "fa-star",
+        "color": "#06B6D4",
+        "is_m3u": false,
+        "sort_order": 4,
+        "order": 4
+    }
+]
