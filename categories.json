@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1780087414",
+    "name": "BEIN SPORTS",
+    "logo": "https://k.top4top.io/p_3715q5plw1.jpg",
+    "image": "https://k.top4top.io/p_3715q5plw1.jpg",
+    "icon": "fa-futbol",
+    "color": "#7C3AED",
+    "is_m3u": false,
+    "sort_order": 0,
+    "order": 0
+  },
+  {
+    "id": "1780761200",
+    "name": "ALWAN SPORTS",
+    "logo": "https://i.ibb.co/wNCKNMMH/alwan-sports.png",
+    "image": "https://i.ibb.co/wNCKNMMH/alwan-sports.png",
+    "icon": "fa-palette",
+    "color": "#EA580C",
+    "is_m3u": false,
+    "sort_order": 1,
+    "order": 1
+  },
+  {
+    "id": "1780745923",
+    "name": "THMANYA SPORTS",
+    "logo": "https://i.ibb.co/dTbX08F/image.png",
+    "image": "https://i.ibb.co/dTbX08F/image.png",
+    "icon": "fa-trophy",
+    "color": "#10B981",
+    "is_m3u": false,
+    "sort_order": 2,
+    "order": 2
+  },
+  {
+    "id": "1780762225",
+    "name": "STARZ PLAY",
+    "logo": "https://e.top4top.io/p_35783xyyz0.jpg",
+    "image": "https://e.top4top.io/p_35783xyyz0.jpg",
+    "icon": "fa-play",
+    "color": "#DC2626",
+    "is_m3u": false,
+    "sort_order": 3,
+    "order": 3
+  },
+  {
+    "id": "1780762505",
+    "name": "SHAHID SPORTS",
+    "logo": "https://e.top4top.io/p_3581ohanr0.png",
+    "image": "https://e.top4top.io/p_3581ohanr0.png",
+    "icon": "fa-star",
+    "color": "#06B6D4",
+    "is_m3u": false,
+    "sort_order": 4,
+    "order": 4
+  },
+  {
+    "id": "1780759619",
+    "name": "وقت مباريات مهمة",
+    "logo": "https://i.top4top.io/p_3809baapp1.jpg",
+    "image": "https://i.top4top.io/p_3809baapp1.jpg",
+    "icon": "fa-clock",
+    "color": "#F59E0B",
+    "is_m3u": false,
+    "sort_order": 5,
+    "order": 5
+  },
+  {
+    "id": "cat_sports",
+    "name": "باقة الرياضة",
+    "logo": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
+    "icon": "fa-futbol",
+    "color": "#7C3AED",
+    "is_m3u": false,
+    "sort_order": 6,
+    "order": 6
+  },
+  {
+    "id": "cat_news",
+    "name": "باقة الأخبار",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
+    "icon": "fa-newspaper",
+    "color": "#2563EB",
+    "is_m3u": false,
+    "sort_order": 7,
+    "order": 7
+  },
+  {
+    "id": "cat_entertainment",
+    "name": "باقة الترفيه",
+    "logo": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png",
+    "icon": "fa-masks-theater",
+    "color": "#059669",
+    "is_m3u": false,
+    "sort_order": 8,
+    "order": 8
+  },
+  {
+    "id": "cat_kids",
+    "name": "باقة الأطفال",
+    "logo": "https://cdn-icons-png.flaticon.com/512/2790/2790387.png",
+    "icon": "fa-child-reaching",
+    "color": "#D97706",
+    "is_m3u": false,
+    "sort_order": 9,
+    "order": 9
+  },
+  {
+    "id": "cat_movies",
+    "name": "باقة الأفلام",
+    "logo": "https://cdn-icons-png.flaticon.com/512/4221/4221419.png",
+    "icon": "fa-film",
+    "color": "#DC2626",
+    "is_m3u": false,
+    "sort_order": 10,
+    "order": 10
+  },
+  {
+    "id": "cat_series",
+    "name": "باقة المسلسلات",
+    "logo": "https://cdn-icons-png.flaticon.com/512/771/771241.png",
+    "icon": "fa-tv",
+    "color": "#0891B2",
+    "is_m3u": false,
+    "sort_order": 11,
+    "order": 11
+  },
+  {
+    "id": "cat_docs",
+    "name": "باقة الوثائقية",
+    "logo": "https://cdn-icons-png.flaticon.com/512/825/825590.png",
+    "icon": "fa-globe",
+    "color": "#EA580C",
+    "is_m3u": false,
+    "sort_order": 12,
+    "order": 12
+  }
+]
